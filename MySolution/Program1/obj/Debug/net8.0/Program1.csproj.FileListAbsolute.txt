@@ -1,0 +1,17 @@
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\bin\Debug\net8.0\Program1.exe
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\bin\Debug\net8.0\Program1.deps.json
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\bin\Debug\net8.0\Program1.runtimeconfig.json
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\bin\Debug\net8.0\Program1.dll
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\bin\Debug\net8.0\Program1.pdb
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\obj\Debug\net8.0\Program1.csproj.AssemblyReference.cache
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\obj\Debug\net8.0\Program1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\obj\Debug\net8.0\Program1.AssemblyInfoInputs.cache
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\obj\Debug\net8.0\Program1.AssemblyInfo.cs
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\obj\Debug\net8.0\Program1.csproj.CoreCompileInputs.cache
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\obj\Debug\net8.0\Program1.csproj.Up2Date
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\obj\Debug\net8.0\Program1.dll
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\obj\Debug\net8.0\refint\Program1.dll
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\obj\Debug\net8.0\Program1.pdb
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\obj\Debug\net8.0\Program1.genruntimeconfig.cache
+C:\Users\Asani\Desktop\C# NEW\MySolution\Program1\obj\Debug\net8.0\ref\Program1.dll

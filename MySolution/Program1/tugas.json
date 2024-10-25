@@ -1,0 +1,40 @@
+[
+  {
+    "Judul": "TUGAS SANTAI",
+    "TugasList": [
+      {
+        "Nama": "MTK",
+        "Selesai": true,
+        "Tanggal": "2024-10-24T00:00:00+07:00",
+        "TanggalJatuhTempo": "2024-10-30T00:00:00",
+        "Prioritas": "Sedang"
+      },
+      {
+        "Nama": "B INDO",
+        "Selesai": false,
+        "Tanggal": "2024-10-24T00:00:00+07:00",
+        "TanggalJatuhTempo": "2024-10-26T00:00:00",
+        "Prioritas": "Rendah"
+      },
+      {
+        "Nama": "DDPK",
+        "Selesai": false,
+        "Tanggal": "2024-10-24T00:00:00+07:00",
+        "TanggalJatuhTempo": "2024-10-27T00:00:00",
+        "Prioritas": "Sedang"
+      }
+    ]
+  },
+  {
+    "Judul": "TUGAS GA SANTAI",
+    "TugasList": [
+      {
+        "Nama": "SEJARAH",
+        "Selesai": false,
+        "Tanggal": "2024-10-24T00:00:00+07:00",
+        "TanggalJatuhTempo": "2024-10-25T00:00:00",
+        "Prioritas": "Tinggi"
+      }
+    ]
+  }
+]
